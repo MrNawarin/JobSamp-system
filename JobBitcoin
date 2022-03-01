@@ -1,5 +1,5 @@
 
-#include <YSI\y_hooks>//แต่ละสคริปอาจจะไม่เหมือนกันตรงนี้
+#include <YSI\y_hooks>//แต่ละสคริปอาจจะไม่เหมือนกันตรงนี้//FB: TU NG
 
 #define     BITCOINOBJECT       	1785
 #define     BITCOINTEXT           	"Objective: {FF0000}Bitcoin\n{FFFFFF}กดปุ่ม {FFFF00}N {FFFFFF}เพื่อขุด!"
